@@ -16,5 +16,12 @@ typedef struct faculty{
 } faculty;
 
 void add_faculty();
+void add_faculty();
+void add_faculty();
+
+void add_faculty();void add_faculty();
+void add_faculty();
+void add_faculty();
+
 
 #endif
